@@ -13,6 +13,8 @@ The project involves:
 ---
 
 ## **Dataset Information**
+**Official Site for Yelp Dataset:** https://business.yelp.com/data/resources/open-dataset/
+
 The dataset consists of **Yelp restaurant reviews** containing:
 - **Review Text** (`text`)
 - **Star Ratings** (`stars`)
